@@ -1,0 +1,85 @@
+body{
+    background-image: url("background.jpg");
+}
+
+.big{
+    height: 200px;
+
+}
+
+.div_speech{
+    float: left;
+    margin-left: 50px;
+}
+
+.div_volume{
+    float: right;
+    margin-right: 50px;
+}
+
+#head {
+    background-color:rgb(236, 46, 163) ;
+    color: rgb(0, 255, 0);
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 15px;
+    border-style: groove;
+    border-color:r ;
+    border-width: 8px;
+    font-style: italic;
+    letter-spacing: 2px;
+
+
+    
+}
+
+button{
+    background-color: ghostwhite;
+    color: hotpink;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 15px;
+    border-style: groove;
+    border-color:aliceblue ;
+    border-width: 8px;
+    font-style: italic;
+    letter-spacing: 2px;
+
+}
+
+#sped{
+
+    background-color: forestgreen;
+    color: navajowhite;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 15px;
+    border-style: groove;
+    border-color:lightcoral ;
+    border-width: 8px;
+    font-style: italic;
+    letter-spacing: 2px;
+}
+
+#vol{
+    background-color: navy;
+    color: blanchedalmond;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 15px;
+    border-style: groove;
+    border-color:lemonchiffon;
+    border-width: 8px;
+    font-style: italic;
+    letter-spacing: 2px;
+}
+
+canvas {
+    
+ 
+    border-radius: 5px;
+    border-style: groove;
+    border-color:yellow ;
+    border-width: 8px;
+   
+}
